@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi, I'm FengLin!
 
-<!--
-**iMaple/iMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Software Enginner from China* 👨🏽‍💻
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=iMaple.iMaple) ![](https://img.shields.io/github/followers/iMaple) ![](https://img.shields.io/website?url=https%3A%2F%2Fblog.imaple.net%2F)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...
+
+```javascript
+const imaple = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "Python"],
+  askMeAbout: ["web dev"],
+  technologies: {
+    frontEnd: {
+      js: ["Vue", "React"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express", "koa", "Nest"],
+      python: ["Flask"]
+    },
+    devOps: ["Docker", "Nginx"],
+    databases: ["MongoDB", "MySql", "SQLite"]
+  }
+}
+```
+
+🌱 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
