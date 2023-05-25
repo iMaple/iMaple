@@ -13,7 +13,7 @@ const imaple = {
   askMeAbout: ["web dev"],
   technologies: {
     frontEnd: {
-      js: ["React", "Vue",]
+      js: ["React", "Vue"]
     },
     backEnd: {
       js: ["Node.js", "Express", "koa", "Nest"],
